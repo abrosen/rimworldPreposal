@@ -2,12 +2,13 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+Making a Rimworld mod:
+Jewish Power Armor
+Fasting Ritual
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+Alice Awesomeface
 
 ## Do you have any questions of your own?
-
-TODO
+Can I pay someone to make the art?
